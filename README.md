@@ -1,42 +1,40 @@
-## 👋 ¡Hola! Soy Agus
+👋 Hi i am Agus | Aspiring Web Developer
 
-🎓 Actualmente estoy estudiando **Licenciatura en Informática**  
-💻 Apasionado por la programación y con muchas ganas de aprender nuevas tecnologías
-
----
-
-### 🧠 Aprendiendo actualmente
-
-- 🔹 **Python** – enfocándome en programación orientada a objetos y proyectos prácticos     
-- 🔹 **SQL** – entendiendo bases de datos y cómo hacer consultas eficientes  
+💻 Desarrollador web en formación, enfocado en construir bases sólidas en HTML y CSS para crear interfaces limpias, modernas y bien estructuradas.
 
 ---
 
-### 🧰 Tecnologías que uso
-
-- 💡 **Lenguajes**: Python, SQL    
-- 🛠️ **Herramientas**: Git, GitHub, VS Code  
-
----
-
-### 🚀 Objetivos
-
-- Crear pequeñas aplicaciones y juegos para practicar lógica  
-- Mejorar mi capacidad para resolver problemas y algoritmos  
-- Explorar el desarrollo backend  
-- Empezar a contribuir a proyectos open source para principiantes  
+### 🌐 Actualmente
+- Profundizando en CSS (layouts, responsive design, buenas prácticas).
+- Desarrollando proyectos para aplicar y consolidar conocimientos.
+- Preparando el camino para comenzar con JavaScript.
 
 ---
 
-### 🎮 Sobre mí
+### 🧰 Tecnologías
 
-- Me gusta programar mini-juegos o desafíos interactivos para aprender mejor  
-- Siempre estoy experimentando y mejorando paso a paso  
-- Creo en aprender haciendo 🧪  
+- Frontend: HTML, CSS.
+- Próximamente: JavaScript.
+- Herramientas: VS Code y Cursor.
+- Aprendiendo: GitHub y Git.
 
 ---
 
-### 📫 ¡Conectemos!
+### 🚀 Enfoque
+- Aprender desde fundamentos sólidos
+- Construir proyectos reales mientras estudio
+- Mejorar progresivamente en diseño y estructura web
+- Adoptar buenas prácticas desde el inicio
 
-No dudes en explorar mis repositorios o contactarme.  
-¡Siempre estoy abierto a aprender, colaborar y crecer con la comunidad! 🚀
+---
+
+### 📈 Objetivos
+- Dominar CSS y diseño responsive
+- Incorporar JavaScript para añadir interactividad
+- Evolucionar hacia el desarrollo frontend completo
+- Seguir creciendo hacia un perfil fullstack
+  
+---
+
+### 🤝 Contacto
+Abierto a aprender, colaborar y seguir creciendo en el desarrollo web 🚀
